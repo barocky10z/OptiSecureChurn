@@ -20,6 +20,7 @@ def select_fulldata():
                     LEFT JOIN renewal r ON c.CustomerID = r.CustomerID AND p.PolicyID = r.PolicyID
                  
                  """)
+   
     result = db.execute(query)
     fulldata = result.fetchall()
     headers = result.keys()
@@ -33,6 +34,9 @@ def select_fulldata():
         writer.writerows(fulldata)
 
     print(f"Data written to: {file_path}")
+
+
+    
 
     return headers, fulldata
 
