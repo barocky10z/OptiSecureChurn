@@ -57,46 +57,8 @@ The key question:
 * **Environment:** {{Jupyter Notebook, VS Code, Google Colab}}
 * **Version Control:** Git & GitHub
 
----
 
-## 📂 Repository Structure
-
-```
-├── data/                # Raw & processed datasets (not uploaded if large)
-├── notebooks/           # Jupyter notebooks for EDA & modeling
-├── src/                 # Python scripts for modularized code
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   └── evaluate.py
-├── models/              # Saved trained models
-├── visuals/             # Plots & figures
-├── README.md            # Project documentation
-└── requirements.txt     # Dependencies
-```
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/{{username}}/{{repo-name}}.git
-   cd {{repo-name}}
-   ```
-
-2. Create a virtual environment & install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run notebooks or scripts inside the `src/` folder.
-
----
-
-## 📈 Next Steps
+## 📈 Recommendations & Next Steps
 
 * {{Possible improvements, e.g., deploy with Streamlit/Flask, add deep learning models, test on new datasets}}
 
