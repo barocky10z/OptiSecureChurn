@@ -104,9 +104,9 @@ The key question:
 
 ## 👤 Author
 
-**{{Your Name}}**
+**Bassey Orok**
 
-* 💼 {{Short tagline, e.g., Data Scientist | ML Enthusiast | Analytics Specialist}}
+* 💼 Data Scientist | ML Enthusiast | Analytics Specialist
 * 🌐 Portfolio: \[{{your-portfolio-link}}]
 * 📧 Email: {{[youremail@example.com](mailto:youremail@example.com)}}
 * 🔗 LinkedIn: \[{{linkedin-link}}]
