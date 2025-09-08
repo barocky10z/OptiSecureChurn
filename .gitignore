@@ -1,4 +1,4 @@
 .env
 venv/
 basseyoptienv/
-_pycache_
+_pycache_/
